@@ -1,1 +1,1 @@
-# php-projects
+# A collection of PHP projects
