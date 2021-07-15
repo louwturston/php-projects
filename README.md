@@ -1,1 +1,1 @@
-### A collection of vanilla PHP projects
+### PHP projects
