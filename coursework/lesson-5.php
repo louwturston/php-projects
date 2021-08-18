@@ -3,7 +3,7 @@
     $stringOne = 'my email is ';
     $stringTwo = 'mario123@thenetninja.co.za';
 
-    echo $stringOne.$stringTwo
+    echo $stringOne.$stringTwo;
 
     $name = 'mario';
 
